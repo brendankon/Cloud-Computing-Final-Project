@@ -1,0 +1,16 @@
+.div-recently-played{
+    box-sizing: border-box;
+    width: 1000px;
+    height: 220px;
+    border: 2px solid black;
+    background: White;
+    margin: 0 auto;
+    display: block;
+}
+
+label{
+    margin-top: 20px;
+    display: block;
+    margin-left: 220px;
+    font-size: 20px;
+}
